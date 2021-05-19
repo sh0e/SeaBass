@@ -1,2 +1,3 @@
 # SeaBass
-New, free backend Nodejs proxy module incooperating a fast, style like nginx and ws support proxy.
+
+SeaBass is currently under major development as of now, and will not be released to the public until further notices.
